@@ -6,6 +6,7 @@ public class Practica1 {
 
         System.out.println("Este es un cambio desde la carpeta miWebCasa");
         System.out.println("Este es un cambio desde la carpeta miWebCasa");
+        System.out.println("Este es un cambio desde la carpeta miWebCasa");
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Momento inicial:");
