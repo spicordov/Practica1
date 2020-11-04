@@ -4,8 +4,14 @@ public class Practica1 {
 
     public static void main(String[] args) {
 
+<<<<<<< HEAD
         System.out.println("Este es un cambio desde la carpeta miWebInsti");
       
+=======
+        System.out.println("Este es un cambio desde la carpeta miWebCasa");
+        System.out.println("Este es un cambio desde la carpeta miWebCasa");
+        System.out.println("Este es un cambio desde la carpeta miWebCasa");
+>>>>>>> 262d9f32ebd51219120fdf1d1e9b4044a04d13d4
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Momento inicial:");
