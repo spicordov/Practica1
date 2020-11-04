@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class Practica1 {
 
     public static void main(String[] args) {
+
+        System.out.println("Este es un cambio desde la carpeta miWebCasa");
+        System.out.println("Este es un cambio desde la carpeta miWebCasa");
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Momento inicial:");
         System.out.println("================");
